@@ -10,6 +10,7 @@ h1 {
     text-align: center;
     margin-top: 40px;
     font-size: 36px;
+    font-family: 'Lobster',cursive;
 }
 
 .profile-pic {
@@ -28,6 +29,7 @@ h1 {
     margin: 30px auto;
     color: #e67e22;
     text-align: center;
+    font-family: 'Roboto',sansserif;
 }
 
 .contact-btn {
@@ -48,5 +50,6 @@ h1 {
     background-color: #16a085;
     transform: scale(1.05);
 }
+
 
 
