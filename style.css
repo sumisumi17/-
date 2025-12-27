@@ -84,6 +84,32 @@ footer {
     color: #555;
     font-size: 14px;
 }
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 28px;
+        margin-top: 20px;
+    }
+
+    .intro {
+        font-size: 16px;
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    .contact-btn, nav a {
+        padding: 10px 15px;
+        font-size: 16px;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    header, footer {
+        padding: 20px 10px;
+    }
+}
+
 
 
 
