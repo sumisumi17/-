@@ -50,6 +50,22 @@ h1 {
     background-color: #16a085;
     transform: scale(1.05);
 }
+nav a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px 0;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #45a049;
+}
+
 
 
 
