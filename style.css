@@ -65,6 +65,26 @@ nav a {
 nav a:hover {
     background-color: #45a049;
 }
+header {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #ffe4e1;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffe4e1;
+    color: #555;
+    font-size: 14px;
+}
+
 
 
 
