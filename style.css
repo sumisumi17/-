@@ -152,12 +152,12 @@ footer {
 }
 
 .offer-text {
-
     font-size: 18px;
     line-height: 1.8;
     color: #555;
     text-align: center;
-
+}
+    
 .contact {
   max-width: 600px;
   margin: 50px auto;
@@ -207,6 +207,7 @@ footer {
   font-size: 18px;
   padding: 14px;
 }
+
 
 
 
