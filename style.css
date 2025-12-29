@@ -158,6 +158,35 @@ footer {
     color: #555;
     text-align: center;
 
+.contact {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.contact h2 {
+  text-align: center;
+  color: #6c3483;
+  font-family: 'Lobster', cursive;
+  margin-bottom: 20px;
+}
+
+.contact form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact input {
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
 
 
 
