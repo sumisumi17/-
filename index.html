@@ -67,10 +67,11 @@
     </footer>
 <script>
   const form = document.getElementById("contactForm");
+    const nameinput = document.getElementById("nameinput")
 
   form.addEventListener("submit", (e) => {
     e.preventDefault();
-    alert("送信ありがとう！");
+    alert(nameinput.value + " さん、ありがとうございます！");
   });
 </script>
 
