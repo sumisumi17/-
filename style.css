@@ -104,3 +104,12 @@ footer {
   border: 2px solid var(--main-color);
 }
 
+.intro {
+  font-size: 20px;
+  line-height: 1.9;
+  width: 70%;
+  margin: 30px auto;
+  color: var(--text-color);
+  text-align: left;
+}
+
