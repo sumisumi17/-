@@ -1,5 +1,5 @@
 :root {
-  --main-color: #6c3483;
+  --main-color: #555555;
   --accent-color: #16a085;
   --bg-light: #f7f7f7;
   --card-bg: #ffffff;
@@ -89,4 +89,8 @@ footer {
   h2 {
     font-size: 20px;
   }
+  p {
+    font-size: 15px;
+  }
 }
+
